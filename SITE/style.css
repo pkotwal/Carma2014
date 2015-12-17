@@ -1,0 +1,40 @@
+body
+{
+    background-color: aquamarine;
+}
+
+#nav_bar{
+height: 100px;
+background-color:#0076b6;
+}
+
+.right{
+	line-height:100px;
+}
+
+#carousel
+{
+    width: 700px;
+    overflow: hidden;
+}
+
+#carousel ul
+{
+    width: 2100px;
+    padding:0;
+    margin-left: 0;
+}
+
+#carousel li
+{
+    width: 700px;
+    text-align: center;
+    height: 500px;
+    list-style: none;
+    float: left;
+}
+
+#carousel_1
+{
+    margin-left: 25%;
+}
